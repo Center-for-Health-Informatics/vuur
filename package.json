@@ -1,0 +1,23 @@
+{
+  "name": "vuur",
+  "version": "0.1.0",
+  "description": "a forward-looking Node.js FHIR client module",
+  "type": "module",
+  "exports": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Center-for-Health-Informatics/vuur.git"
+  },
+  "keywords": [
+    "fhir"
+  ],
+  "author": "Rob Ireton <iretonrt@ucmail.uc.edu>",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/Center-for-Health-Informatics/vuur/issues"
+  },
+  "homepage": "https://github.com/Center-for-Health-Informatics/vuur#readme"
+}
